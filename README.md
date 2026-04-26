@@ -137,8 +137,3 @@ AUC(Area under ROC-Curve) measures the performance of a binary classification mo
 RF-model are shown in above figure.
 
 2. "Src Ip","Dst Ip","Src Port","Dst Port", are in the top 10 features which makes sense as these four are combined to determine the "Flow ID" which describes the entire flow.
-
-## **Contributors**
-- Sai Harsha Vardhan Reddy, Kolan- skolan@horizon.csueastbay.edu, harsha62334@gmail.com
-
-Thanks for reading!
